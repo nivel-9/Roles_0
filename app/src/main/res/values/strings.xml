@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Roles_0</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">roles_0</string>
+    <string-array name="nivel_estudio">
+        <item>Seleccionar opción</item>
+        <item>Preescolar</item>
+        <item>Primaria</item>
+        <item>Secundaria</item>
+        <item>Medio Superior</item>
+        <item>Superior</item>
+    </string-array>
 </resources>
